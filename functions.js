@@ -1,5 +1,5 @@
 /* Opdracht 0: voorbeeld */
-// Schrijf een functie die de string "Goedemorgen" teruggeeft
+// Schrijf een functie die de strinblvlag "Goedemorgen" teruggeeft
 // ---- Verwachte uitkomst bij het aanroepen van de functie: "Goedemorgen"
 
 function morningGreeter() {
